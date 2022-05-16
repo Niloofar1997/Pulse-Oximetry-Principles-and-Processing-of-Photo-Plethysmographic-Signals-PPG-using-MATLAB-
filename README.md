@@ -1,5 +1,6 @@
 # Pulse-Oximetry-Principles-and-Processing-of-Photo-Plethysmographic-Signals-PPG-using-MATLAB-
 
 Overview
+
 Photoplethysmography is a non-invasive, optical method to visualize sub dermal blood volume. In this report, we use a pulse oximeter by clipping it to a person's finger and receive the PPG data in order to measure different elements such as blood oxygen saturation and heart rate. Furthermore, a comparison between two different datasets of patients is done.The whole process in receiving PPG data is like the light is irradiated into the skin and the transmitted or reflected light is measured. Blood volume fluctuations cause changes in the intensity of the measured light and several rhythmic vital parameters can be observed (i.e. heart rate). By means of different light wavelengths an additional spectral analysis of the blood can be performed. Since the red and infrared absorption/reflection spectra of reduced and oxygenated hemoglobin distinguish significantly, PPG is also often used for an easy measurement of blood oxygen saturation (e.g., in pulse oximetry).
 The important part of the project would be bio signal processing, which is done in MATLAB. Different processing is done on the data including digital filtering, windowing and spectral analysis, and time frequency analysis
